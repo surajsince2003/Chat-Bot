@@ -32,7 +32,7 @@ class HomeScreen extends StatelessWidget {
                     alignment: Alignment.center,
                     margin: const EdgeInsets.only(top: 20, bottom: 20),
                     decoration: BoxDecoration(
-                        color: Colors.red,
+
                         borderRadius: BorderRadius.circular(18),
                         image: const DecorationImage(
                             fit: BoxFit.fitHeight,
@@ -72,7 +72,7 @@ class HomeScreen extends StatelessWidget {
                     margin: const EdgeInsets.only(top: 20, bottom: 20),
                     padding: const EdgeInsets.only(left: 10, bottom: 20),
                     decoration: BoxDecoration(
-                        color: Colors.red,
+
                         borderRadius: BorderRadius.circular(18),
                         image: const DecorationImage(
                             fit: BoxFit.fitHeight,
