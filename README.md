@@ -44,6 +44,38 @@ This is a Flutter-based Health Chatbot App that integrates the **Google Gemini A
 
 ---
 
+## App UI Preview
+
+### 🔹 Splash Screen
+![Splash](assets/app_ui/splash_screen.jpg)
+
+### 🔹 First Screen
+![First](assets/app_ui/first_screen.jpg)
+
+### 🔹 Login Screen
+![Login](assets/app_ui/splash_screen.jpg)
+![Gender Selector](assets/app_ui/gender_select.jpg)
+![Date Picker](assets/app_ui/date_picker.jpg)
+
+### 🔹 Welcome Screen
+![Welcome](assets/app_ui/welcome_screen.jpg)
+
+### 🔹 Home Screen
+![Home](assets/app_ui/home_screen.jpg)
+
+### 🔹 Chat Screen
+![Chat](assets/app_ui/chat_screen.jpg)
+
+### 🔹 Chat Response Screen
+![Response](assets/app_ui/chat_response.jpg)
+![Response2](assets/app_ui/chat_response2.jpg)
+
+### 🔹 Profile Screen
+![Profile](assets/app_ui/profile_screen.jpg)
+![Avtar Update](assets/app_ui/avtar_update.jpg)
+![Update Toast Message](assets/app_ui/update_profile_toast.jpg)
+
+
 ## 📦 Getting Started
 
 ### 1. Clone the Repository
